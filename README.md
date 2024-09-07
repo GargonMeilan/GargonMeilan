@@ -14,8 +14,8 @@
 
 <h6 align="center">
 
-  <img src="https://gh-readme-profile.vercel.app/api?username=GargonMeilan&theme=shadow_red&border_width=0&border_radius=15.2&hide_border=true&include_all_commits=true&count_private=true">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GargonMeilan&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://gh-readme-profile.vercel.app/api?username=GargonMeilan&theme=buefy-dark&bg_color=000000&title_color=853dd8&border_width=0&border_radius=15.2&hide_border=false&border_width=4.5&include_all_commits=true&count_private=true">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GargonMeilan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true">
 </h6>
 </details>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=GargonMeilan&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=GargonMeilan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 </details>
