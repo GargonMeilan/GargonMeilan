@@ -1,5 +1,4 @@
-# 📚 Computer Engineering Student at [USAL](https://www.usal.es/)
-![image](https://user-images.githubusercontent.com/104859858/170781054-010483bd-9f24-42fb-9fc7-76cb752f68ea.png)
+
 
 
 
